@@ -58,6 +58,7 @@ Editor de Código Integrado: Monaco Editor ou Ace.js
 
 🎞️ url vídeo demonstração (pitch ideia):
 🎥 url vídeo demonstração (aplicação rodando):
+
 -------------------
 📚 Referências:
 
