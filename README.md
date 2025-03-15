@@ -36,7 +36,7 @@ Editor de Código Integrado: Monaco Editor ou Ace.js
 📃 Business Model Canvas:
 ![image](https://github.com/user-attachments/assets/a07a55d0-dd17-4a18-b208-6b3f404b1ab6)
 
-🛬 Landing Page: (Adicionar URL da página de apresentação)
+🛬 Landing Page: [Landing Page Link](https://diegoandreleffa.github.io/CodeQuiz/)
 
 🗓️ Product Backlog: (Adicionar URL do backlog do projeto)
 
@@ -44,6 +44,7 @@ Editor de Código Integrado: Monaco Editor ou Ace.js
 
 ⌨️ url Protótipo (Figma):
 📝 url Modelagem Sistema:
+
 -------------------
 
 💻 PMI III
@@ -55,8 +56,10 @@ Editor de Código Integrado: Monaco Editor ou Ace.js
 💻 PMI IV
 
 🖥️ Versão do Código no github/heroku/servidor:
+
 🎞️ url vídeo demonstração (pitch ideia):
 🎥 url vídeo demonstração (aplicação rodando):
+
 -------------------
 📚 Referências:
 
