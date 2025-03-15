@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #1E1E1E;
+    color: #88FF3F;
 }
 .container {
     max-width: 900px;
     margin: 50px auto;
     padding: 20px;
-    background: white;
+    background: #121212;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
 }
 h1, h2 {
-    color: #007bff;
+    color: #88FF3F;
 }
 .section {
     margin-bottom: 30px;
@@ -25,8 +25,9 @@ h1, h2 {
     gap: 10px;
 }
 .tech-box {
-    background: #007bff;
-    color: white;
+    background: #121212;
+    color: #88FF3F;
+    border: #88FF3F 1px solid;
     padding: 10px;
     border-radius: 5px;
     display: inline-block;
