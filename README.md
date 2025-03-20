@@ -36,7 +36,7 @@ Editor de Código Integrado: Monaco Editor ou Ace.js
 📃 Business Model Canvas:
 ![image](https://github.com/user-attachments/assets/a07a55d0-dd17-4a18-b208-6b3f404b1ab6)
 
-🛬 Landing Page: [Landing Page Link](https://diegoandreleffa.github.io/CodeQuiz/)
+🛬 Landing Page: [Landing Page Link](https://diegoandreleffa.github.io/CodeQuiz-front/)
 
 🗓️ Product Backlog: (Adicionar URL do backlog do projeto)
 
